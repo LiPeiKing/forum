@@ -54,7 +54,7 @@
 	        <li class="layui-nav-item ">
 	          <a class="" href="javascript:;">用户管理</a>
 	          <dl class="layui-nav-child">
-	            <dd><a href="javascript:;">普通用户</a></dd>
+	            <dd><a href="javascript:;" value="UserList.php">普通用户</a></dd>
 	            <dd><a href="javascript:;">管理员</a></dd>
 	            <dd><a href="javascript:;">黑名单</a></dd>
 
