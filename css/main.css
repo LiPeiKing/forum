@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 body {
-    background: #fff;
-    padding-top: 5px;
-    font-family: "Helvetica Neue", Helvetica, Arial, "Hiragino Sans GB", "Hiragino Sans GB W3", "WenQuanYi Micro Hei", "Microsoft YaHei UI", "Microsoft YaHei", sans-serif;
+	background: #fff;
+	padding-top: 5px;
+	font-family: "Helvetica Neue", Helvetica, Arial, "Hiragino Sans GB", "Hiragino Sans GB W3", "WenQuanYi Micro Hei", "Microsoft YaHei UI", "Microsoft YaHei", sans-serif;
 }
 
 /*模态框中登录的图标*/
@@ -14,63 +14,55 @@ body {
 .modal-dialog{
 	width:450px
 }
-=======
->>>>>>> b62e5808c8af7ac0d96e94331314990afe0baf3d
 .navbar {
-    min-width: 100%;
-    background: #f9f9f9;
-    border-bottom: 1px solid #4fc3f7;
-    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.07);
+	min-width: 100%;
+	background: #f9f9f9;
+	border-bottom: 1px solid #4fc3f7;
+	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.07);
 }
 .container-fluid{
 	margin:auto 15%;
 }
 .main{
-    background: #f9f9f9;
-    padding: 0 10px 0 10px;
-    box-shadow: 2px 2px 5px #d3d6da;
+	background: #f9f9f9;
+	padding: 0 10px 0 10px;
+	box-shadow: 2px 2px 5px #d3d6da;
 }
 .mian-sider{
 	background: #f9f9f9;
-    
+	
 }
 .slider-content{
 	padding: 0  0 0 10px;
-    box-shadow: 2px 2px 5px #d3d6da;
+	box-shadow: 2px 2px 5px #d3d6da;
 	padding-bottom: 10px;
 	margin: 0px;
 	margin-bottom: 25px;
 }
 .title{
 	background: #ECECEC;
-    padding: 8px;
+	padding: 8px;
 	margin-bottom: 3px; 
-    color: #474846;
+	color: #474846;
 }
-<<<<<<< HEAD
 
-=======
 a{
 	color: #474846;
 	margin-top:4px;
 }
->>>>>>> b62e5808c8af7ac0d96e94331314990afe0baf3d
 a:link{
-text-decoration:none;
+	text-decoration:none;
 }
 a:visited{
-text-decoration:none;
+	text-decoration:none;
 }
 a:hover{
-text-decoration:none;
-<<<<<<< HEAD
-color: #5cb85c;
-=======
-color: #099
->>>>>>> b62e5808c8af7ac0d96e94331314990afe0baf3d
+	text-decoration:none;
+	color: #5cb85c;
+	color: #099
 }
 a:active{
-text-decoration:none;
+	text-decoration:none;
 }
 .logo{
 	
